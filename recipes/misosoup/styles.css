@@ -1,0 +1,43 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(47, 151, 180);
+    text-align: center;
+}
+
+.main, .last {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
+div {
+    display: inline-block;
+}
+
+.unordered, .ordered {
+    line-height: 30px;
+}
+
+.unordered {
+    float: left;
+}
+
+.second {
+    float: right;
+    width: 35%;
+    margin-right: 50px;
+    border-radius: 5%;
+}
+
+.last {
+    width: 50vw;
+    height: auto;
+}
+
+.recipe {
+    font-size: small;
+}

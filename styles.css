@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(178, 220, 252);
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    font-size: large;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.pancake {
+    color: rgb(233, 109, 152);
+}
+
+.miso {
+    color: rgb(56, 56, 151);
+}
+
+.dumplings {
+    color: rgb(255, 94, 0);
+}

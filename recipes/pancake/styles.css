@@ -1,0 +1,40 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(250, 188, 197);
+    
+}
+
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
+div {
+    display: flex;
+}
+
+ul, 
+.ordered {
+    line-height: 30px;
+}
+
+.ordered {
+    float: left;
+    width: 70%;
+    margin-right: 1.5vw;
+}
+
+.image {
+    float: right;
+    width: 30%;
+}
+
+.recipe {
+    font-size: small;
+}
